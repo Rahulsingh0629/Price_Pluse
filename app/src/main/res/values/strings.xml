@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PricePulse</string>
+    <string name="search_hint">Search products (e.g., Sony Headphones)</string>
+    <string name="true_cost_label">True Cost</string>
+    <string name="price_history">Price History</string>
+    <string name="wishlist">Unified Wishlist</string>
+</resources>
